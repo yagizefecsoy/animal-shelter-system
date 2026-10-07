@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# CMake / CLion build output
+build/
+cmake-build-*/
